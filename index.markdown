@@ -7,7 +7,7 @@ layout: home
 
 Welcome to my site. Hopefully it's what you were actually wanting to find.
 
-If you want to skip to reading my CV, it's ready for [viewing or downloading](/assets/documents/declan_kehoe_cd.pdf).
+If you want to skip to reading my CV, it's ready for [viewing or downloading](/assets/documents/declan_kehoe_cv.pdf).
 
 Otherwise you can see out a collection of some of my other [works](/work), and weep. I know I do.
 
