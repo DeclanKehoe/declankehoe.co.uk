@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'HOST - Humanising Online Services Toolkit'
-description: 'For Imago software, I was BA on a small, agile team. We were collaborating with charities to develop a toolkit which helps move refugee charity services online, and delivered a full stack framework to facilitate that.'
+description: 'For Imago Software. I was BA on a small, agile team. We were collaborating with charities to develop a toolkit so charity services could go online, and delivered a full stack framework to facilitate that. My job was to help bridge the developers and the clients.'
 banner:
     src: '../../images/imago-site-screenshot.png'
     alt: 'A screenshot of my generative music app'
@@ -9,6 +9,8 @@ banner:
 ---
 
 You can [see the framework](https://humanizing-online-services-toolkit.netlify.app/toolkit) for the toolkit we made, unfortunately the clients have not yet updated it with their own content, but the software works!
+
+![Screenshot of the Imago software project](/assets/images/imago-site-screenshot.png)
 
 ### Goals & Overview
 

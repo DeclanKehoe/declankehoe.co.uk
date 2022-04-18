@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Generative Music App'
-description: 'An overview of my third year dissertation project, a generative music application. Written and devloped in Processing3 & Java. Evaluated qualitatively. Documented up in a formal report and video presentation.'
+description: 'An overview of my third year dissertation project, a generative music application developed with a UX focus. Written in Processing3 for tighter scoping. Evaluated qualitatively. Documented in a technical report and video presentation.'
 banner:
     src: '/images/generative-app-screenshot.png'
     alt: 'A screenshot of my generative music app'

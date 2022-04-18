@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'A Social Network Analysis of Star Wars'
-description: 'I came up with the project to better understand exponential random graph modelling (ERGM), and used it to test hypothesis on the correlation between force sensitivity and character interaction in Star Wars'
+description: 'I came up with the project to better understand exponential random graph modelling (ERGM), and used it to test hypothesis on the correlation between force sensitivity and character interaction in Star Wars. Fun, but also informative!'
 ---
 
 ### Overview

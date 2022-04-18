@@ -4,9 +4,9 @@ title: About Me
 permalink: /about/
 ---
 
-Hi there, I'm Declan. Feel free to [download my CV](/assets/documents/declan_kehoe_cv.pdf) and have a look... 
+Hi there, I'm Declan. Feel free to [look at my CV](/assets/documents/declan_kehoe_cv.pdf), it's a PDF... 
 
-Then hire me 🌝?
+You could then hire me 🌝?
 
 Or read on for some more Declan Information™.
 
