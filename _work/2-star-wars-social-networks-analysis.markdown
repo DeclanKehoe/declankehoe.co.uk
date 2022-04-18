@@ -8,7 +8,7 @@ description: 'I came up with the project to better understand exponential random
 
 This was a fun project to test my learning in variety of disciplines related to social network analysis. Primarily it was a way to:
 
-- Improve my knowledge or **R** and,
+- Improve my knowledge of **R**
  
 - Improve my ability to use R in **RStudio**
 
