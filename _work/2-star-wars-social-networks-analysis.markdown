@@ -12,13 +12,13 @@ This was a fun project to test my learning in variety of disciplines related to 
  
 - Improve my ability to use R in **RStudio**
 
-- Convert external data into format compatible with **statisitical analysis**
+- Convert external data into format compatible with **statistical analysis**
 
 - Apply **descriptive statistics** to explain a novel dataset
 
 - Use **ERGMs** to test **hypotheses** derived from the data
 
-- Use **plots and graphs** to clcearly demonstrate the results of tests
+- Use **plots and graphs** to clearly demonstrate the results of tests
 
 ![Screenshot of the project running in RStudio](/assets/images/rstudio_star_wars_screenshot.png)
 

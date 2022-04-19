@@ -26,13 +26,13 @@ The secondary goal was to fully leverage the language and IDE the application wa
 Overall, as this project was rooted in a human computer interaction student’s perspective, the focus was on creating a set of user experience outcomes; for app users, and potential  Processing developers, rather than a radical technological exercise.
 
 ### Development Process
-The best overview of the development decisions within the project can be found in the video screencast which was presented as part of the final project presentation.
+The best overview of the development decisions within the project can be found in the video screen-cast which was presented as part of the final project presentation.
 
 Throughout the development, multiple different UI designs & app functions were tested with different users. Through both formal and informal questioning and interviews, the design of the app was improved and refined, with a focus on rapid iterations to incorporate as many ideas as possible.
 
 ### Evaluation
 
-A series of participants were asked questions in a semi-structured intervew formation, in order to elicit themes around their experience of using the application. The questions were designed to conform to a qualitative approach, and an attempt was made to interview users with a range of experience levels.
+A series of participants were asked questions in a semi-structured interview formation, in order to elicit themes around their experience of using the application. The questions were designed to conform to a qualitative approach, and an attempt was made to interview users with a range of experience levels.
 
 After the interview process, themes were identified and, quotes were pulled in order to explain the strengths and weaknesses that user's had identified. The wide range of **user experiences** really interested me, and being able to understand the relationship between my design decisions and their eventual feelings towards what I had made was a really interesting process. I would like to do more of this kind of work in the future, as I felt the ability to tease out information from conversation is a really important skill to develop and employ.
 
@@ -42,7 +42,7 @@ For more on the evaluation process, I again recommend [reading or downloading](/
 
 In the future I would like to do a few more things with this project. Namely to vastly improve the **accessibility** of the application by implementing better options for contrasting colours, as well as user selectable colour schemes for colour blindness. I would also make it possible for the user to resize the elements of the application, as well as the app window itself - although this would require a more thorough understanding of Processing's draw() loop.
 
-Another larger scale change would be to port the project to use Processing's JavaScript language. In doing so it would help to both solidfy my JS skills, and also make the application itself easier to access; as it would no longer require a user to download it & ensure they have the correct version of Java.
+Another larger scale change would be to port the project to use Processing's JavaScript language. In doing so it would help to both solidify my JS skills, and also make the application itself easier to access; as it would no longer require a user to download it & ensure they have the correct version of Java.
 
 ### Conclusion
 
@@ -63,11 +63,11 @@ You can download and unzip this exported project as a Java app in a few flavours
 
 - [Intel macOS app](/assets/files/mac/app_apple_intel.zip)
 
-- [Apple Silcon macOS app](/assets/files/mac/app_apple_silicon.zip)
+- [Apple Silicon macOS app](/assets/files/mac/app_apple_silicon.zip)
 
-- [Windows exe](/assets/files/windows/app_windows.zip)
+- [Windows .exe](/assets/files/windows/app_windows.zip)
 
-- [64-bit linux](/assets/files/linux/app_linux.zip)
+- [64-bit Linux](/assets/files/linux/app_linux.zip)
 
 - [32-bit Raspberry Pi](/assets/files/linux/app_32_bit_pi.zip) / [64-bit Raspberry Pi](/assets/files/linux/app_64_bit_pi.zip)
 

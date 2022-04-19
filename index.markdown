@@ -15,4 +15,4 @@ You could also [read the about me](/about), to learn a little... about me.
 
 If none of that is good, enjoy a picture of my dog Bilbo as a consolation prize.
 
-![A cute pomeranian](/assets/images/bilbo.jpg)
+![A cute Pomeranian](/assets/images/bilbo.jpg)

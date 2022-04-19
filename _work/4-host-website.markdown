@@ -22,8 +22,8 @@ Everything in the site itself has been built and designed completely from scratc
 
 By following the agile approach, we decided to build out only the most vital components as we went. This meant that to start with we just built the frontend and hardcoded everything that was seen. For this stage we used **react** and **typescript** as the frameworks, deployed to **netlify**, and used **yarn** as the package manager.
 
-We also built a bespoke backend solution for the researchers such that they can continue adding their research to the site in an easy way, while still benefitting from the design of the front end we developed. In the end a **PostgreSQL** database with a **Django** interface was built, and content could be added through a web GUI and would then be automatically formatted and published on the site.
+We also built a bespoke back-end solution for the researchers such that they can continue adding their research to the site in an easy way, while still benefiting from the design of the front end we developed. In the end a **PostgreSQL** database with a **Django** interface was built, and content could be added through a web GUI and would then be automatically formatted and published on the site.
 
 ### Collaborative Development
 
-This project's biggest challenge was in attempting to build for client's who were unsure as to what precisely they were looking for. us to make This process has lead to a lot of  **prototyping**, regular **presentations** of progress, and **iterations** based on feedback from the researchers, who are producing the information that will evnetually (hopefully) be on the website.
+This project's biggest challenge was in attempting to build for client's who were unsure as to what precisely they were looking for. us to make This process has lead to a lot of  **prototyping**, regular **presentations** of progress, and **iterations** based on feedback from the researchers, who are producing the information that will eventually (hopefully) be on the website.
