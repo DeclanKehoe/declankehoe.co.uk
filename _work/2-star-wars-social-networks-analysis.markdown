@@ -2,6 +2,9 @@
 layout: page
 title: 'A Social Network Analysis of Star Wars'
 description: 'I came up with the project to better understand exponential random graph modelling (ERGM), and used it to test hypothesis on the correlation between force sensitivity and character interaction in Star Wars. Fun, but also informative!'
+banner:
+    src: '/assets/images/rstudio-star-wars-screenshot.png'
+    alt: 'A screenshot of the RStudio environement in which the report was generated'
 ---
 
 ### Overview
@@ -20,13 +23,13 @@ This was a fun project to test my learning in variety of disciplines related to 
 
 - Use **plots and graphs** to clearly demonstrate the results of tests
 
-![Screenshot of the project running in RStudio](/assets/images/rstudio_star_wars_screenshot.png)
+![Screenshot of the project running in RStudio](/assets/images/rstudio-star-wars-screenshot.png)
 
 ### Reporting the results
 
-Outside of nice graphs, there was actually evidence to support the hypotheses - but no spoilers. The report can be [viewed as a pdf](/assets/documents/star_wars_analysis_report.pdf) which has *all* the information, and is actually pretty short and readable. If I say so myself.
+Outside of nice graphs, there was actually evidence to support the hypotheses - but no spoilers. The report can be [viewed as a pdf](/assets/documents/star-wars-analysis-report.pdf) which has *all* the information, and is actually pretty short and readable. If I say so myself.
 
-![A preview of the report](/assets/images/report_preview.png)
+![A preview of the report](/assets/images/report-preview.png)
 
 ### Join in at home!
 

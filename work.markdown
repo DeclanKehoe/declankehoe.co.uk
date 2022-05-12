@@ -12,6 +12,7 @@ Here's some things I've done! Click the links for more information, videos, cont
   <h3>
     <a href="{{ work.url }}">{{ work.title }}</a>
   </h3>
+  <a href="{{ work. url }}"><img src="{{ work.banner.src }}" alt="{{ work.banner.alt }}" width="100%"></a>
   <p>{{ work.description }}<p>
   <hr>
       

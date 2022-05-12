@@ -3,9 +3,8 @@ layout: page
 title: 'Generative Music App'
 description: 'An overview of my third year dissertation project, a generative music application developed with a UX focus. Written in Processing3 for tighter scoping. Evaluated qualitatively. Documented in a technical report and video presentation.'
 banner:
-    src: '/images/generative-app-screenshot.png'
+    src: '/assets/images/generative-app-screenshot.png'
     alt: 'A screenshot of my generative music app'
-    caption: 'A screenshot of the code and the app running side-by-side'
 ---
 
 ### Project Overview
@@ -14,7 +13,7 @@ Generative music describes an indirect form of music creation, wherein the compo
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/0WWOrIHrOho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-If you have the time I would recommend checking out the report I wrote which goes into a **lot** more detail. Please [read or download](/assets/documents/generative_music_report.pdf) it, and possibly, enjoy it.
+If you have the time I would recommend checking out the report I wrote which goes into a **lot** more detail. Please [read or download](/assets/documents/generative-music-report.pdf) it, and possibly, enjoy it.
 
 
 ### Project Goals
@@ -36,7 +35,7 @@ A series of participants were asked questions in a semi-structured interview for
 
 After the interview process, themes were identified and, quotes were pulled in order to explain the strengths and weaknesses that user's had identified. The wide range of **user experiences** really interested me, and being able to understand the relationship between my design decisions and their eventual feelings towards what I had made was a really interesting process. I would like to do more of this kind of work in the future, as I felt the ability to tease out information from conversation is a really important skill to develop and employ.
 
-For more on the evaluation process, I again recommend [reading or downloading](/assets/documents/generative_music_report.pdf) the project report, which contains links so you can see the relevant sections, as well as transcripts of the interviews.
+For more on the evaluation process, I again recommend [reading or downloading](/assets/documents/generative-music-report.pdf) the project report, which contains links so you can see the relevant sections, as well as transcripts of the interviews.
 
 ### Improvements
 
